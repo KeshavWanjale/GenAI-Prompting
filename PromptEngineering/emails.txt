@@ -1,0 +1,64 @@
+From: john.doe@example.com
+To: hr@company.com
+Subject: Application for Software Engineer Position
+Dear HR Team,
+
+I am writing to express my interest in the Software Engineer position at your esteemed organization. I have attached my resume and portfolio for your review. Please let me know if you require any additional information.
+
+Looking forward to your response.
+
+Best regards,
+John Doe
+---END OF EMAIL---
+
+From: manager@teamcorp.com
+To: team@teamcorp.com
+Subject: Project Kickoff Meeting Scheduled for January 5th
+Dear Team,
+
+I am pleased to announce the kickoff meeting for our new project. The meeting is scheduled for January 5th at 10:00 AM in Conference Room A. Your attendance is essential to align on goals and strategies.
+
+Please confirm your availability.
+
+Best regards,
+Manager
+---END OF EMAIL---
+
+From: offers@shopfast.com
+To: jane.smith@example.com
+Subject: Exclusive 20% Discount Just for You!
+Hi Jane,
+
+We are excited to offer you an exclusive 20% discount on your favorite products! Use the code JAN20 at checkout.
+
+Hurry, this offer expires on December 31st.
+
+Happy Shopping!
+The ShopFast Team
+---END OF EMAIL---
+
+From: appointments@healthclinic.com
+To: michael.brown@example.com
+Subject: Reminder: Appointment on December 20th
+Dear Michael,
+
+This is a friendly reminder about your upcoming appointment at Health Clinic on December 20th at 3:00 PM. Please arrive 15 minutes early for check-in.
+
+If you need to reschedule, contact us at (555) 123-4567.
+
+Best regards,
+Health Clinic Team
+---END OF EMAIL---
+
+From: emily.rose@example.com
+To: it.support@company.com
+Subject: Unable to Access Company Portal
+Hi IT Support,
+
+I am unable to log in to the company portal with my credentials. Could you please assist in resetting my password or resolving the issue?
+
+Thank you in advance.
+
+Best regards,
+Emily Rose
+---END OF EMAIL---

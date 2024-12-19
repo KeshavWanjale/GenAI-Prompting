@@ -1,0 +1,39 @@
+Product: Bluetooth Headphones
+Review: These headphones are incredible! The sound quality is crystal clear, with deep bass and balanced mids. The noise-cancellation feature works like a charm, and the battery life lasts over 30 hours on a single charge. They’re comfortable for extended use, and the foldable design makes them travel-friendly. Highly recommend!
+---END OF REVIEW---
+
+Product: Smartphone
+Review: Extremely disappointed with this phone. It overheats within 10 minutes of gaming, and the battery drains rapidly. The camera is overhyped; photos are grainy in low light, and the autofocus is slow. For the price, there are far better options in the market. Avoid this model.
+---END OF REVIEW---
+
+Product: Air Purifier
+Review: The air purifier is decent but not extraordinary. It does a good job of clearing odors and dust, but the fan is quite noisy at higher speeds. The replacement filters are also expensive. Overall, it’s functional but could use some improvements.
+---END OF REVIEW---
+
+Product: Electric Kettle
+Review: This kettle is a lifesaver for my busy mornings. It boils water in under two minutes, and the auto shut-off feature adds safety. The stainless steel body is durable, and the sleek design looks great in my kitchen. A must-have for tea and coffee lovers!
+---END OF REVIEW---
+
+Product: Smartwatch
+Review: The watch looks good, but the functionality is disappointing. The heart rate monitor is inaccurate, and the step counter seems to count random movements. The app crashes frequently, and customer support is unresponsive. Regret buying this.
+---END OF REVIEW---
+
+Product: Gaming Chair
+Review: The chair is comfortable but not exceptional. It offers good lumbar support, but the armrests feel flimsy and can’t be adjusted properly. For the price, I expected better build quality. It’s fine if you’re on a budget but not great for hardcore gamers.
+---END OF REVIEW---
+
+Product: Coffee Maker
+Review: This coffee maker is a game changer! It brews a perfect cup every time, and the programmable timer ensures I wake up to fresh coffee. Cleaning is easy, and the design fits well on my countertop. Worth every penny for coffee enthusiasts.
+---END OF REVIEW---
+
+Product: Wireless Router
+Review: This router is terrible. The Wi-Fi signal is weak, even in the same room, and it drops connections constantly. Firmware updates don’t help, and tech support is useless. Stay away from this model if you value a stable internet connection.
+---END OF REVIEW---
+
+Product: DSLR Camera
+Review: The camera delivers decent image quality, but it struggles with autofocus in low light. The kit lens isn’t great, and you’ll need to invest in additional lenses for better results. It’s okay for beginners but not ideal for professionals.
+---END OF REVIEW---
+
+Product: Electric Scooter
+Review: Fantastic product! The scooter is fast, smooth, and has excellent battery life, lasting up to 25 miles on a single charge. The build is sturdy, and the LED display is easy to read. Perfect for commuting or leisure rides. Definitely recommend!
+---END OF REVIEW---
